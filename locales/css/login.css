@@ -1,0 +1,75 @@
+body{
+
+  width: 100%;
+  height: 100%;
+}
+.vid-container{
+  position:relative;
+  height:100vh;
+  overflow:hidden;
+}
+
+.box{
+  position:absolute;
+  height:100%;
+  width:100%;
+  font-family:Helvetica;
+  color:#fff;
+  background:rgba(0,0,0,0.13);
+  padding:30px 0px;
+  border-radius: 14px;
+}
+.box h1{
+  text-align:center;
+  margin:30px 0;
+  font-size:30px;
+}
+.box input{
+  display:block;
+  width:300px;
+  margin:10px auto;
+  padding:15px;
+  background:rgba(0,0,0,0.2);
+  color:#fff;
+  border:0;
+   border-radius: 4px;
+}
+
+.box button{
+  background:#742ECC;
+  border:0;
+  color:#fff;
+  padding:10px;
+  font-size:20px;
+  width:330px;
+  margin:20px auto;
+  display:block;
+  cursor:pointer;
+}
+.cerrar{
+   background:#742ECC;
+  border:0;
+  color:#fff;
+  padding:10px;
+  font-size:20px;
+  width:330px;
+  margin:200px auto;
+  display:block;
+  cursor:pointer;
+  height: 65px;
+
+}
+.box button:active{
+  background:#27ae60;
+}
+#Fdescripcion{
+   display:block;
+  width:330px;
+  height: 70px;
+  margin:10px auto;
+  background:rgba(0,0,0,0.2);
+  color:#fff;
+  border:0;
+   border-radius: 4px;
+   
+}

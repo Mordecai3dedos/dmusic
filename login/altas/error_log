@@ -1,0 +1,41 @@
+[21-Mar-2016 01:04:04 Europe/Madrid] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/xmoobsne/public_html/beta/login/altas/grupo-bbdd.php on line 17
+[21-Mar-2016 04:20:13 Europe/Madrid] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/xmoobsne/public_html/beta/login/altas/grupo-bbdd.php on line 17
+[28-Mar-2016 18:20:55 Europe/Madrid] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/xmoobsne/public_html/beta/login/altas/grupo-bbdd.php on line 17
+[28-Mar-2016 18:30:41 Europe/Madrid] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/xmoobsne/public_html/beta/login/altas/grupo-bbdd.php on line 29
+[28-Mar-2016 19:01:50 Europe/Madrid] PHP Parse error:  syntax error, unexpected '"SELECT * FROM dm_estilo"' (T_CONSTANT_ENCAPSED_STRING) in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 25
+[28-Mar-2016 19:02:01 Europe/Madrid] PHP Parse error:  syntax error, unexpected '"SELECT * FROM dm_estilo"' (T_CONSTANT_ENCAPSED_STRING) in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 25
+[28-Mar-2016 19:02:20 Europe/Madrid] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 30
+[28-Mar-2016 19:04:05 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_id' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 29
+[28-Mar-2016 19:04:05 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_nombre' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 30
+[28-Mar-2016 19:04:05 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_id' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 29
+[28-Mar-2016 19:04:05 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_nombre' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 30
+[28-Mar-2016 19:04:05 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_id' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 29
+[28-Mar-2016 19:04:05 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_nombre' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 30
+[28-Mar-2016 19:04:05 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_id' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 29
+[28-Mar-2016 19:04:05 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_nombre' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 30
+[28-Mar-2016 19:04:05 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_id' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 29
+[28-Mar-2016 19:04:05 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_nombre' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 30
+[28-Mar-2016 19:04:05 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_id' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 29
+[28-Mar-2016 19:04:05 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_nombre' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 30
+[28-Mar-2016 19:05:03 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_id' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 29
+[28-Mar-2016 19:05:03 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_nombre' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 30
+[28-Mar-2016 19:05:03 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_id' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 29
+[28-Mar-2016 19:05:03 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_nombre' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 30
+[28-Mar-2016 19:05:03 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_id' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 29
+[28-Mar-2016 19:05:03 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_nombre' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 30
+[28-Mar-2016 19:05:03 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_id' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 29
+[28-Mar-2016 19:05:03 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_nombre' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 30
+[28-Mar-2016 19:05:03 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_id' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 29
+[28-Mar-2016 19:05:03 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_nombre' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 30
+[28-Mar-2016 19:05:03 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_id' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 29
+[28-Mar-2016 19:05:03 Europe/Madrid] PHP Warning:  Illegal string offset 'estilo_nombre' in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 30
+[28-Mar-2016 19:06:39 Europe/Madrid] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 28
+[28-Mar-2016 19:06:50 Europe/Madrid] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 28
+[28-Mar-2016 19:07:03 Europe/Madrid] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 27
+[28-Mar-2016 19:07:03 Europe/Madrid] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 28
+[28-Mar-2016 19:07:22 Europe/Madrid] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 27
+[28-Mar-2016 19:07:22 Europe/Madrid] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 28
+[28-Mar-2016 19:07:27 Europe/Madrid] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 27
+[28-Mar-2016 19:07:27 Europe/Madrid] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 28
+[28-Mar-2016 19:08:07 Europe/Madrid] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 27
+[28-Mar-2016 19:08:18 Europe/Madrid] PHP Warning:  mysqli_fetch_array() expects parameter 2 to be long, object given in /home/xmoobsne/public_html/beta/login/altas/alta-grupo.php on line 27

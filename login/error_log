@@ -1,0 +1,70 @@
+[16-Mar-2016 17:13:21 Europe/Madrid] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/xmoobsne/public_html/beta/prueba/login/nuevo.php:13) in /home/xmoobsne/public_html/beta/prueba/login/nuevo.php on line 14
+[16-Mar-2016 17:15:19 Europe/Madrid] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/xmoobsne/public_html/beta/prueba/login/nuevo.php:13) in /home/xmoobsne/public_html/beta/prueba/login/nuevo.php on line 14
+[16-Mar-2016 17:15:48 Europe/Madrid] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/xmoobsne/public_html/beta/prueba/login/nuevo.php:13) in /home/xmoobsne/public_html/beta/prueba/login/nuevo.php on line 14
+[18-Mar-2016 17:30:28 Europe/Madrid] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/xmoobsne/public_html/beta/login/perfil.php on line 8
+[18-Mar-2016 17:30:53 Europe/Madrid] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/xmoobsne/public_html/beta/login/perfil.php on line 9
+[18-Mar-2016 17:31:09 Europe/Madrid] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /home/xmoobsne/public_html/beta/login/perfil.php on line 10
+[18-Mar-2016 17:31:57 Europe/Madrid] PHP Parse error:  syntax error, unexpected 'mysqli_close' (T_STRING) in /home/xmoobsne/public_html/beta/login/perfil.php on line 9
+[18-Mar-2016 17:42:35 Europe/Madrid] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/xmoobsne/public_html/beta/login/perfil.php on line 7
+[18-Mar-2016 17:49:31 Europe/Madrid] PHP Fatal error:  Call to undefined function mysqli_fetch() in /home/xmoobsne/public_html/beta/login/perfil.php on line 15
+[18-Mar-2016 17:49:41 Europe/Madrid] PHP Warning:  Illegal string offset 'nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:49:41 Europe/Madrid] PHP Warning:  Illegal string offset 'nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:49:41 Europe/Madrid] PHP Warning:  Illegal string offset 'nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:49:41 Europe/Madrid] PHP Warning:  Illegal string offset 'nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:49:41 Europe/Madrid] PHP Warning:  Illegal string offset 'nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:49:41 Europe/Madrid] PHP Warning:  Illegal string offset 'nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:49:41 Europe/Madrid] PHP Warning:  Illegal string offset 'nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:49:41 Europe/Madrid] PHP Warning:  Illegal string offset 'nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:49:41 Europe/Madrid] PHP Warning:  Illegal string offset 'nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:49:41 Europe/Madrid] PHP Warning:  Illegal string offset 'nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:49:41 Europe/Madrid] PHP Warning:  Illegal string offset 'nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:49:41 Europe/Madrid] PHP Warning:  Illegal string offset 'nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:49:41 Europe/Madrid] PHP Warning:  Illegal string offset 'nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:49:41 Europe/Madrid] PHP Warning:  Illegal string offset 'nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:49:41 Europe/Madrid] PHP Warning:  Illegal string offset 'nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:49:41 Europe/Madrid] PHP Warning:  Illegal string offset 'nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:49:41 Europe/Madrid] PHP Warning:  Illegal string offset 'nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:49:41 Europe/Madrid] PHP Warning:  Illegal string offset 'nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:01 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:01 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:01 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:01 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:01 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:01 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:01 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:01 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:01 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:01 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:01 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:01 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:01 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:01 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:01 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:01 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:01 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:01 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_nombre' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:06 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_email' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:06 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_email' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:06 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_email' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:06 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_email' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:06 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_email' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:06 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_email' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:06 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_email' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:06 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_email' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:06 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_email' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:06 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_email' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:06 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_email' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:06 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_email' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:06 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_email' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:06 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_email' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:06 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_email' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:06 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_email' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:06 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_email' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:50:06 Europe/Madrid] PHP Warning:  Illegal string offset 'usuario_email' in /home/xmoobsne/public_html/beta/login/perfil.php on line 17
+[18-Mar-2016 17:53:30 Europe/Madrid] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/xmoobsne/public_html/beta/login/perfil.php on line 15
+[18-Mar-2016 17:53:47 Europe/Madrid] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, object given in /home/xmoobsne/public_html/beta/login/perfil.php on line 15
+[31-Mar-2016 17:37:26 Europe/Madrid] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/xmoobsne/public_html/beta/login/nuevo.php on line 10
+[31-Mar-2016 17:37:38 Europe/Madrid] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/xmoobsne/public_html/beta/login/nuevo.php on line 10
+[31-Mar-2016 17:38:49 Europe/Madrid] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/xmoobsne/public_html/beta/login/nuevo.php on line 10
+[31-Mar-2016 17:38:54 Europe/Madrid] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/xmoobsne/public_html/beta/login/nuevo.php on line 10
+[31-Mar-2016 19:25:38 Europe/Madrid] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/xmoobsne/public_html/beta/login/nuevo.php on line 10
